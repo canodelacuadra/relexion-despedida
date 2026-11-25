@@ -1,10 +1,10 @@
-# Lo que me llevo · Cierre IFCD0210
+# Lo que nos llevamos · Cierre IFCD0210
 
-Pequeña actividad web interactiva para despedir al grupo del certificado **IFCD0210** y facilitar una reflexión final en voz alta.
+Pequeña actividad web interactiva para el cierre del certificado **IFCD0210** y facilitar una reflexión final en grupo.
 
 ## Qué incluye
 
-- Una portada con la dinámica de la actividad.
+- Una portada con la dinámica de la actividad e iconos de tecnologías web.
 - 5 preguntas de reflexión, mostradas una a una.
 - Una pauta breve en cada pregunta para ayudar a verbalizar.
 - Una pantalla final con el repaso de todas las preguntas y un mensaje de cierre.
